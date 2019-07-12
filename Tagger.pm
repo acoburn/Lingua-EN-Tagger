@@ -1,6 +1,6 @@
 package Lingua::EN::Tagger;
 
-our $VERSION = '0.30';
+our $VERSION = '0.31';
 
 use warnings;
 use strict;
